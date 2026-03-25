@@ -66,3 +66,8 @@ The design ensures proper alignment, compactness, and ease of assembly.
 ## 📌 Note
 
 This project is a **mechanical and conceptual prototype**, focused on demonstrating integration between mobility and manipulation in a single robotic system.
+<img width="872" height="487" alt="image" src="https://github.com/user-attachments/assets/cc055dcd-0392-402a-af6c-2a055cd30770" />
+
+<img width="985" height="745" alt="Screenshot 2026-03-25 155625" src="https://github.com/user-attachments/assets/2ea071ff-9c15-4c36-886a-0d957a1f5eea" />
+
+
