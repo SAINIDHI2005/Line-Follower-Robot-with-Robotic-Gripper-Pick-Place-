@@ -12,7 +12,7 @@ The robot follows a predefined path using line sensors and is equipped with a **
 
 ## ⚙️ Design & Modeling
 
-- Entire assembly designed in **Autodesk Fusion 360**
+- Entire grabber assembly and chassis designed from scratch in **Autodesk Fusion 360**
 - Custom chassis and gripper mechanism modeled from scratch  
 - Standard components integrated using imported STL files:
   - N20 geared motors  
